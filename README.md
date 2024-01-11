@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+<!-- # React + TypeScript + Vite
 
-<!-- This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
@@ -29,4 +29,6 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list -->
 
-### Canary design is a component library built in React and TypeScript using the Vite template. To find out more about all the available components and how to use them, read [Documentation](https://github.com/vikrantaroraa/canary-design).
+## Canary Design
+
+#### Canary design is a component library built in React and TypeScript using the Vite template. To find out more about all the available components and how to use them, read [Documentation](https://github.com/vikrantaroraa/canary-design).
