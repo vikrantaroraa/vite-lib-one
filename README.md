@@ -31,4 +31,4 @@ export default {
 
 ## Canary Design
 
-#### Canary design is a component library built in React and TypeScript using the Vite template. To find out more about all the available components and how to use them, read [Documentation](https://github.com/vikrantaroraa/canary-design).
+Canary design is a component library built in React and TypeScript using the Vite template. To find out more about all the available components and how to use them, read [Documentation](https://github.com/vikrantaroraa/canary-design).
