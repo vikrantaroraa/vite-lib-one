@@ -16,4 +16,4 @@ const DummyComponent2 = () => {
   );
 };
 
-export default DummyComponent2;
+export { DummyComponent2 };

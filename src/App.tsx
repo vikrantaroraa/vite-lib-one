@@ -2,9 +2,9 @@
 // import viteLogo from '/vite.svg'
 import "./App.css";
 import { MyButton } from "src/components/MyButton";
-import DummyComponent1 from "src/components/DummyComponent1";
-import DummyComponent2 from "src/components/dummy-components/DummyComponent2";
-import DummyComponent3 from "src/components/dummy-components/DummyComponent3";
+import { DummyComponent1 } from "src/components/DummyComponent1";
+import { DummyComponent2 } from "src/components/dummy-components/DummyComponent2";
+import { DummyComponent3 } from "src/components/dummy-components/DummyComponent3";
 import { DummyComponent4 } from "src/components/DummyComponent4";
 
 function App() {

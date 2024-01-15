@@ -19,4 +19,4 @@ const DummyComponent3 = () => {
   );
 };
 
-export default DummyComponent3;
+export { DummyComponent3 };
